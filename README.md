@@ -20,10 +20,10 @@
 
 ## Key Insights for Presentation
 
-	-Visualization about genders of participants
+	-Visualization about genders of participants :
 	This visualization show us that most of peoples are Males and The remainder nearly represent a quarter of the percentage of participants are females and others.
-	-Visualization about genders at each station
+	-Visualization about genders at each station :
 	I noticed that although the number of Males is more than the number of Females, there are stations, which are among the top 10 stations in terms of the number of riders.
 	Females represent the largest proportion of the participants.
-	-Visualization between 3 variables genders and their ages and duration for each
+	-Visualization between 3 variables genders and their ages and duration for each :
 	Here obvious that although the number of trips with higher duration is higher for males but some women around 60 years of age take a longer period of time.
