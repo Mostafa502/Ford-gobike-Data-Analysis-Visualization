@@ -8,9 +8,7 @@
 
 ## Summary of Findings
 
-	-The general purpose of the report is to explain in general terms about the individual trips that are made in the bike-sharing system that covers the Greater San Francisco Bay Area
-	and to identify the factors that drive participants to participate in trips, what distinguishes some areas from others,
-	the percentage of participation numbers of males and females, and the time spent Some spend it and some other factors that increase our knowledge of the factors that go into trips.
+	-The general purpose of the report is to explain in general terms about the individual trips that are made in the bike-sharing system that covers the Greater San Francisco Bay Area and to identify the factors that drive participants to participate in trips, what distinguishes some areas from others, the percentage of participation numbers of males and females, and the time spent Some spend it and some other factors that increase our knowledge of the factors that go into trips.
 	-The duration variable took on a large range of values, so I looked at the data using a log transform. Under the transformation, the data looked bimodal,
 	with one peak between 100 𝑎𝑛𝑑 1200, and anothers .
 	-I noticed that although the number of Males is more than the number of Females, there are stations, which are among the top 10 stations in terms of the number of riders. 
